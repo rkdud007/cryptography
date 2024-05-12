@@ -1,5 +1,5 @@
 [package]
-name = "rsa"
+name = "key-gen-ec"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,6 +7,3 @@ edition = "2021"
 
 [dependencies]
 lambdaworks-math.workspace = true
-primal = "0.3.2"
-rand = "0.8.4"
-prime_factorization = "1.0.4"
