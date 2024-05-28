@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["key-gen-ec", "rsa"]
+members = ["key-gen-ec", "rsa", "sss"]
 
 [workspace.package]
 name = "cryptography"
